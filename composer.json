@@ -1,0 +1,23 @@
+{
+    "name": "nathan-reis/teste-sqlite",
+    "description": "Sample with SQLite",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathan Reis",
+            "email": "nathansilvareis@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        }
+    },
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "1.*"
+    }
+}

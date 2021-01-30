@@ -1,0 +1,4 @@
+/source/database/db.sqlite
+/vendor
+
+/composer.phar
